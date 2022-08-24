@@ -1,0 +1,13 @@
+#user{
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    background-color: #cebea7;
+    padding-top: 40px;
+}
+#user>img{
+    width: 30%;
+
+}
